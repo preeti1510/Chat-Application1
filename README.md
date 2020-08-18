@@ -1,1 +1,1 @@
-# Chat-Application1 using Django and Rest Api
+# Chat-Application using Django and Rest Api
